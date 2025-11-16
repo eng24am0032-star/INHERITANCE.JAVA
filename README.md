@@ -1,1 +1,10 @@
-# INHERITANCE.JAVA
+<img width="1152" height="130" alt="Screenshot 2025-11-17 020159" src="https://github.com/user-attachments/assets/f706cd36-8f28-4ebe-bc59-dda6a258ae74" />
+<img width="1216" height="135" alt="Screenshot 2025-11-17 020214" src="https://github.com/user-attachments/assets/02709c8d-ce23-4a0f-b20b-dc0f9f66bb3a" />
+<img width="1124" height="162" alt="Screenshot 2025-11-17 020225" src="https://github.com/user-attachments/assets/d45cb72a-f550-482c-824b-e77667a42fc3" />
+<img width="1092" height="162" alt="Screenshot 2025-11-17 020234" src="https://github.com/user-attachments/assets/f397e7a8-c0c6-470b-9f45-7eab0e197c46" />
+<img width="1172" height="162" alt="Screenshot 2025-11-17 020043" src="https://github.com/user-attachments/assets/5e39bc6d-5459-416a-867d-4f2fe3aec03b" />
+<img width="1186" height="130" alt="Screenshot 2025-11-17 020051" src="https://github.com/user-attachments/assets/82586fbb-9d9e-4e17-bb5c-9ae91463e9a0" />
+<img width="1181" height="163" alt="Screenshot 2025-11-17 020059" src="https://github.com/user-attachments/assets/6fe09ab5-d99e-410f-8dd2-23c28d24dee7" />
+<img width="1092" height="110" alt="Screenshot 2025-11-17 020119" src="https://github.com/user-attachments/assets/d8fb455a-296e-44db-a28a-07fc0c16a518" />
+<img width="1192" height="110" alt="Screenshot 2025-11-17 020129" src="https://github.com/user-attachments/assets/e5b2f126-b0a7-436c-bf6a-75687b40ab76" />
+<img width="1132" height="133" alt="Screenshot 2025-11-17 020140" src="https://github.com/user-attachments/assets/0947a86a-1b20-4f47-bcaf-49f577cea32d" />
